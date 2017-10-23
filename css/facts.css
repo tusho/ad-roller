@@ -1,0 +1,45 @@
+h2 {
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    font-weight: 300;
+    color: #505558;
+}
+
+/*#leftside {
+	width: 50%;
+};*/
+
+#left-image {
+  border: 0 none;*/
+  display: inline-block;
+  height: auto;
+  max-width: 100%;
+  margin-top: 25px;
+/*  vertical-align: middle;*/
+}
+
+#myCarousel {
+  padding-top: 22px;
+}
+
+.facts-main {
+  margin-top: 10px;
+  padding: 10px 30px 0px 25px;
+}
+
+#toprow {
+  text-align: left;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-left: 0px;
+  padding-left: 10px;
+}
+
+.facts-lower {
+  padding-right: 25px;
+}
+
+h4 {
+    text-align: center;
+}

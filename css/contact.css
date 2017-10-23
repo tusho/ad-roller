@@ -1,0 +1,80 @@
+
+#map {
+	height: 300px;
+	bottom: 0px;
+}
+
+#toprow {
+	text-align: center;
+}
+
+h2 {
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    font-weight: 300;
+    color: #505558;
+}
+
+h4 {
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    color: #505558;
+}
+
+    .header {
+        color: #36A0FF;
+        font-size: 27px;
+        padding: 10px;
+    }
+
+    .bigicon {
+        font-size: 35px;
+        color: #36A0FF;
+    }
+
+.form-group {
+	width: 100%;
+}
+
+.modal-body iframe input[type="text"]{
+    background-color:red;
+}
+
+.container-fluid {
+	padding-bottom: 462px;
+}
+
+.container.contact-form {
+	margin-left: 0px;
+	margin-top: 30px;
+}
+
+.line-separator{
+	height:3px;
+	width: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background:#0060AE;
+	border-bottom:3px solid #0060AE;
+}
+
+.address h2 {
+	margin-top: 0px;
+}
+
+.paragraphs img {
+	width: 20px;
+	margin: 1px 8px 0px 0px;
+}
+
+.map-overlay {
+    width:99%;
+    height:450px;
+    position:absolute;
+    cursor:pointer;
+}
